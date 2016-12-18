@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="temperature_view" type="id" />
+    <item name="button_group" type="id" />
+    <item name="button_on" type="id" />
+    <item name="button_off" type="id" />
+    <item name="button_auto" type="id" />
+    <item name="bottom_layout_buttons" type="id" />
+    <item name="status_title" type="id" />
+</resources>
